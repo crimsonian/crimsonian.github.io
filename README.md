@@ -3,6 +3,16 @@
 
 Welcome the the main repository for [crimsonian.com](http://crimsonian.com), your new blogging engine powered by [Jekyll](http://jekyllrb.com/) and hosted via [Github Pages](https://pages.github.com/). Adding new content to the site is as easy as editing a text file. Below, I'll cover some of the most common tasks you'll perform when working with this set of tools.
 
+* [Directory Structure](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#directory-structure)
+* [Adding New Posts](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#adding-new-posts)
+* [Intro to Markdown](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#brief-intro-to-markdown)
+  * [Headers](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#1-headers)
+  * [Links](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#2-links)
+  * [Emphasis](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#emphasis)
+  * [Images](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#images)
+  * [Using Flickr for Images](https://github.com/crimsonian/crimsonian.github.io/blob/master/README.md#using-flickr-for-images)
+
+
 ## Directory Structure
 
 In general, the directory structure looks something like this...
@@ -133,7 +143,7 @@ If you've ever fooled HTML for images, this should be a refreshing change of pac
 
 > ![](https://farm4.staticflickr.com/3434/3206727133_e0726cb7b9_q.jpg)
 
-## Adding Images
+### Using Flickr for Images
 
 While you can use the above method to easily add markup for images, getting those online in an accessible place might be a little trickier. You can certainly use this repository to host your images if you want but a better solution would be to use Flickr to host your images and simply copy the embed code from there and paste it into your posts. While Markdown is generally preferable for quick content creation, the site does still support basic HTML.
 

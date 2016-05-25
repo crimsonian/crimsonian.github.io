@@ -23,9 +23,15 @@ header.site-header {
   }
 }
 
+.post-content {
+  &, p {
+    line-height: 1.7em;
+  }
+}
+
 #banner {
     @include retina-background-image($img-banner);
-    background-color: #666;
+    background-color: #d4d4d4;
     background-position: bottom center;
     background-repeat: no-repeat;
     outline: none;

@@ -1,6 +1,33 @@
+header.site-header {
+  margin-bottom: 2em;
+  nav {
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+  }
+  ul {
+    width: 100%;
+    text-align: center;
+  }
+  li {
+    display: inline;
+    &.div {
+      margin: 0 0.25em;
+    }
+  }
+  li, a {
+    color: $legal-color;
+  }
+  a:hover {
+    color: darken($legal-color, 10%);
+    text-decoration: underline;
+  }
+}
+
 #banner {
     @include retina-background-image($img-banner);
-    background-color: #8e8387;
+    background-color: #666;
+    background-position: bottom center;
+    background-repeat: no-repeat;
     outline: none;
     display: block;
     width: $banner-width;
@@ -20,6 +47,8 @@
         position: absolute;
         bottom: 20px;
         width: 100%;
+        position: absolute;
+        left: -99999em;
     }
 
     &::after {
@@ -36,6 +65,7 @@
     @include min-breakpoint($image-splitting-breakpoint) {
         margin-bottom: $banner-margin;
     }
+
 }
 
 #footer {

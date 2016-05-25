@@ -29,16 +29,16 @@ $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 182px;
-$banner-height: 503px;
-$banner-margin: 50px;
+$banner-width: 252px;
+$banner-height: 430px;
+$banner-margin: 20px;
 $banner-border-width: 3px;
 $banner-border-offset: 2px;
 
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/banner';
+$img-banner: '{{ site.baseurl }}/img/crimsonian-inverted';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 

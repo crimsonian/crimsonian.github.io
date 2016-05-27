@@ -12,3 +12,5 @@ Love us? Hate us? Want to ask us a question, or tell us your thoughts? We'd love
 
 
 <a data-flickr-embed="true"  href="https://www.instagram.com/crimsonian/"><img src="https://c6.staticflickr.com/8/7483/27221423741_5414337afb_s.jpg" width="75" height="75" alt="Instagram-v051916"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Or just drop us an email at crimsonianpodcast@gmail.com

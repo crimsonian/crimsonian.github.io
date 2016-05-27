@@ -4,8 +4,6 @@ title: Contact Us
 permalink: /contact/
 ---
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/27016148640/in/datetaken/" title="FB-f-Logo__blue_1024"><img src="https://c1.staticflickr.com/8/7355/27016148640_1a9bcb3368_s.jpg" width="75" height="75" alt="FB-f-Logo__blue_1024"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/27291236555/in/datetaken/" title="TwitterLogo_#55acee"><img src="https://c4.staticflickr.com/8/7333/27291236555_8836a3ce5b_s.jpg" width="75" height="75" alt="TwitterLogo_#55acee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

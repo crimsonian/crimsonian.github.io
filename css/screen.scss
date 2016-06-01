@@ -50,3 +50,23 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
         "layout",
         "modules"
 ;
+
+.about {
+  @include clearfix;
+  margin-top: 1em;
+  h2 {
+    font-size: 110%;
+  }
+  article,
+  figure {
+    float: left;
+  }
+  figure {
+    width: 30%;
+    margin: 0;
+    margin-left: 1em
+  }
+  article {
+    width: 65%;
+  }
+}

@@ -7,12 +7,12 @@
 
 # Site settings
 title: Crimsonian
-authors: Crimson M. and Laurie P.
+authors: Crimson MacDonald. and Laurie Sharp-Page.
 author_link: http://crimsonian.com/about
 author_description: Two ladies, two microphones and a bottle of wine.
 email: crimson.macdonald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  crimsonian.com is a happy-hour style podcast, where we discuss the most interesting and compelling stories of the week.
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog

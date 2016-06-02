@@ -3,9 +3,8 @@ layout: post
 title:  "Welcome to the Crimsonian!"
 date:   2016-05-02 22:40:07 -0400
 ---
+Episode 1: June 3, 2016-la vieille ferme
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/26812266134/in/datetaken/" title="episode 3"><img src="https://c7.staticflickr.com/8/7523/26812266134_8c57120eb2_s.jpg" width="75" height="75" alt="episode 3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/tcmacdonald/4003232856/in/faves-crimsonrhoads/" title="DSC01500"><img src="https://farm3.staticflickr.com/2543/4003232856_15b5cd4b78_b.jpg" width="1024" height="681" alt="DSC01500"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.
+Tragedy strikes, after tragedy strikes at the Cincinnati Zoo. Donald Trump officially has the number of delegates needed to win the Republican Nomination. And we ask, is it time for Bernie Sanders to step away from the Democratic Primary?

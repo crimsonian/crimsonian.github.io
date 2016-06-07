@@ -76,8 +76,10 @@ header.site-header {
 
 #footer {
     margin-top: 50px;
+    margin-bottom: 100px;
     text-align: center;
 
+    /***
     &::after {
         @include retina-background-image($img-dude);
         display: block;
@@ -86,6 +88,7 @@ header.site-header {
         height: 158px;
         margin: 20px auto 50px;
     }
+    ***/
 
     a {
         // Overwrite default link color

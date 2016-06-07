@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode One"
-date:   2016-05-02 22:40:07 -0400
+date:   2016-06-03 08:00:00 -0400
 ---
 Episode 1: June 3, 2016-la vieille ferme
 

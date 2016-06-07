@@ -15,6 +15,6 @@ permalink: /about/
 <section class="about">
   <article>
     <h2>Laurie Sharp-Page, Co-Host</h2>
-    <p>Laurie Sharp-Page, MS, LPCC, NCC is a psychotherapist, entrepreneur and comedienne who enjoys all things pop culture. Luarie received her undergraduate degree in Philosophy from Miami University and her Masters of CLinical Mental Health from Northern Kentucky University. Laurie specializes in child, adolescent and family psychothereapy, and has a deep love for reality TV shows, baking bread, her two dogs and a cat and her lovely husband Jason.</p>
+    <p>Laurie Sharp-Page, MS, LPCC, NCC, is a psychotherapist, entrepreneur and comedienne who enjoys all things pop culture. Laurie received her undergraduate degree in Philosophy from Miami University and her Masters of CLinical Mental Health from Northern Kentucky University. Laurie specializes in child, adolescent and family psychothereapy, and has a deep love for reality TV shows, baking bread, her two dogs and a cat and her lovely husband Jason.</p>
   </article>
 </section>

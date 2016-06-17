@@ -5,7 +5,7 @@ date:   2016-06-15 08:00:00 -0400
 ---
 For those of you who have listened to the crimsonian podcast since episode one, thank you. And not just thank you for taking time out of your day to listen, but for tolerating the lack of professional sound quality. When we started this endevor, it was just to have a creative outlet and to partake in the awesome world of podcasting. We really didn't think anyone would listen, so we decided to wing it. I had absolutely no idea what technology was needed or how to make it possible, but as with most things in life, you just got to throw yourself in and figure it out.
 
-Through the process of trial and error (and consultation with my husband, Taylor), I believe we have FINALLY reached our goal of sounding somewhat professional, without making a significant investment. Yay! But given the hassle, I thought I would share what worked for us, so you aspiring podcasters can learn from the error in my ways.
+Through the process of trial and error (and consultation with my husband, Taylor), I believe we have FINALLY reached our goal of sounding somewhat professional, without making a significant investment. Yay! But given the hassle, I thought I would share what worked for us, so you aspiring podcasters can learn from the error of my ways.
 
 I started with just a MacBook Pro and a USB microphone I borrowed from Taylor's company. One microphone, directly into the machine worked ok, but Laurie and I had to be pretty close and any movements would put one of us out of the range of good quality. So it was uncomfortable and didn't sound professional. The bare minimum of being able to hear us was met, but it just wasn't good enough. We needed another microphone.
 

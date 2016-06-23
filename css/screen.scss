@@ -51,6 +51,12 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
         "modules"
 ;
 
+.post-body {
+  a {
+    color: #3F7AC2;
+  }
+}
+
 .about {
   @include clearfix;
   margin-top: 1em;

@@ -8,9 +8,9 @@ date:   2016-07-07 08:00:00 -0400
 
 Fourth of July has always been a big deal in my family, as it should be. It marks the most important birthday of all, that of 'murica! This particular fourth was exceptionally awesome. The weekend started off great. We had some family time that was extra special. I am not sure if Atticus was just in moddler mode (defined as “a model toddler”) or we were just ready to relax and we actually threw ourselves into autopilot. Having no obligations, no rules, and being laid back is the best strategy to a toddler being a moddler; the less conflict, the better. For whatever the reason, not only did I genuinely enjoy my people this weekend, but I realized I kind of love my city.
 
-Cincinnati was not on my list of dream cities, honestly, it didn’t even rank. But through a series of decisions this is where I am today. 8 years ago when we moved here, it was easy to hate on the city. There were few restaurants, and no nightlife, so disparaging comments about Cincinnati’s delay in growth made sense. Everyone agreed that we were living the mark twain ideal that Cincinnati was 20 years behind the rest of the world. 
+Cincinnati was not on my list of dream cities, honestly, it didn’t even rank. But through a series of decisions this is where I am today. 8 years ago when we moved here, it was easy to hate on the city. There were few restaurants, and no nightlife, so disparaging comments about Cincinnati’s delay in growth made sense. Everyone agreed that we were living the Mark Twain ideal that Cincinnati was 20 years behind the rest of the world. 
 
-*"When the end of the world comes, I want to be in Cincinnati because it's always twenty years behind the times."*
+*"When the end of the world comes, I want to be in Cincinnati because it's always twenty years behind the times." -Mark Twain*
 
 But today, no matter how hard I try to hate on the city, I can’t help but love it. Between Bluegrass night at Washington Park, the Fort Thomas community 4th party, the Cincinnati Nature Preserve, and just being able to go to my mom’s for a patriotic party, all within a few days, gives me pure gratitude.
 

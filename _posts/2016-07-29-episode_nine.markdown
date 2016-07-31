@@ -2,7 +2,7 @@
 layout: post
 title:  "the dnc convention: saying goodbye to bernie sanders and hello to hillary clinton
 "
-date:   2016-07-27 08:00:00 -0400
+date:   2016-07-29 08:00:00 -0400
 ---
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276127355&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

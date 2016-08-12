@@ -4,7 +4,7 @@ title:  "the conversation series: the journey of a transgender man.
 "
 date:   2016-08-12 08:00:00 -0400
 ---
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277998979&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278002927&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 We break out of our normal happy hour routine and have a conversation with a friend and hear about his journey transitioning from a woman to man. Laurie first breaks down the clinical definitions of gender and sexuality, but then we move on to hear about Sam and his journey, both physically and emotionally. We discuss the heart wrenching realities transgender people face in terms of having support from their loved ones, but how social media can be helpful in mitigating those consequences. Most importantly, Sam gives some perspective that could help many with their own gender identity crisis to help them understand that its a difficult journey, but you will persevere and come out stronger.
 

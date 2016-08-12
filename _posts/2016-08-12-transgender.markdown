@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the conversation series: the journey of a transgender man.
+title:  "conversation series: the journey of a transgender man.
 "
 date:   2016-08-12 08:00:00 -0400
 ---

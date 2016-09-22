@@ -4,6 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
+  {% if page.og_image %}
+  <meta property="og:image" content="{{ page.og_image }}" />
+  {% endif %}
+
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if site.picturefill %}
       <script>

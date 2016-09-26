@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "i can't sit idle while watching innocent black men die"
-date:   2016-06-07 08:00:00 -0400
+date:   2016-09-26 08:00:00 -0400
 ---
 http://www.concordmonitor.com/getattachment/8102844a-cf7f-4492-b752-51a2e6b71a49/BlackLivesMatter-cm-071716-ph06
 

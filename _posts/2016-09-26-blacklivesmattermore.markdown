@@ -3,7 +3,7 @@ layout: post
 title:  "i can't sit idle while watching innocent black men die"
 date:   2016-09-26 08:00:00 -0400
 ---
-!http://www.concordmonitor.com/getattachment/8102844a-cf7f-4492-b752-51a2e6b71a49/BlackLivesMatter-cm-071716-ph06
+![](http://www.concordmonitor.com/getattachment/8102844a-cf7f-4492-b752-51a2e6b71a49/BlackLivesMatter-cm-071716-ph06)
 
 This evening, after a great weekend of family camping, I decided to catch up on the news. I watched an innocent, non threatening, black man get executed by police officers. The first video was of his wife filming the encounter. Not only is it disturbing that this black woman felt she needed to film the police encounter as evidence, but that she was genuinely scared that her husband, completely innocent and unarmed would be murdered. He was.
 

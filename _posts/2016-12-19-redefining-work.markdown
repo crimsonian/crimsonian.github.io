@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""what is it you say you do?""
+title:  "what is it you say you do?"
 date:   2016-12-19 08:00:00 -0400
 ---
 

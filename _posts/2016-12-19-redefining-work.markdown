@@ -2,7 +2,7 @@
 layout: post
 title:  "what is it you say you do?"
 date:   2016-12-19 08:00:00 -0400
-img:    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/145915257@N08/31755332715/in/dateposted-public/" title="work sucks"><img src="https://c4.staticflickr.com/1/677/31755332715_ebb2a95f1e_s.jpg" width="75" height="75" alt="work sucks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+og_image: http://crimsonian.com/img/31755332715_beef091d3f_o.png
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/145915257@N08/31755332715/in/dateposted-public/" title="work sucks"><img src="https://c4.staticflickr.com/1/677/31755332715_ebb2a95f1e_s.jpg" width="75" height="75" alt="work sucks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

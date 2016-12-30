@@ -76,3 +76,19 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
     width: 65%;
   }
 }
+
+.img-responsive {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-center {
+  margin: 0 auto;
+  display: block;
+}
+
+.ri {
+  @extend .img-responsive;
+  @extend .img-center;
+}

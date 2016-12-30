@@ -6,7 +6,6 @@ description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penat
 og_image: http://crimsonian.com/img/31755332715_beef091d3f_o.png
 ---
 
-<!-- ![Work sucks, then you die.](/img/31755332715_beef091d3f_o.png){: .ri } -->
 <img src="/img/31755332715_beef091d3f_o.png" class="ri" />
 
 Why is it that when you meet someone you ask “what do you do for a living?” I never really thought about it until the question was raised in some philosophy class in college, but even then I blew it off. The question is a good ice breaker and helps drive conversation. However, lately the concept has resurfaced and it feels like a fucked up question? It assumes a couple things; that the person wants to talk about work, and that what someone does for money defines their character. I am starting to question my approach to asking this question as a "getting to know you" conversation starter; so I am going to try something new this holiday party season...I am not going to ask people about work.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "conversation series: the journey of a transgender man.
-"
+title:  "conversation series: the journey of a transgender man."
 date:   2016-08-12 08:00:00 -0400
+category: general
 ---
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278002927&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

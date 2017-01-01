@@ -2,6 +2,7 @@
 layout: post
 title:  "millenial entitlement"
 date:   2016-06-03 08:00:00 -0400
+category: general
 ---
 ![](https://theprogressivemom.files.wordpress.com/2016/04/bernie.jpg?w=580)
 

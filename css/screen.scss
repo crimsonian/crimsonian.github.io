@@ -51,9 +51,34 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
         "modules"
 ;
 
+.text-center {
+  text-align: center;
+}
+
+.page-header {
+  @include ornament;
+}
+
 .post-body {
   a {
     color: #3F7AC2;
+  }
+}
+
+
+ul.category {
+  li {
+    margin-bottom: 1em;
+    time {
+      display: block;
+    }
+    a {
+      font-weight: 400;
+      font-size: 100%;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }
 

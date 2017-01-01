@@ -1,25 +1,7 @@
 @import "modules/post/variables";
 @mixin galileo-post {
-    .post::after {
-        @include retina-background-image($img-separator);
-        background-repeat: no-repeat;
-        background-position: center bottom;
-        background-color: transparent;
-        content: "";
-        width: 100%;
-        max-width: 596px;
-        height: 42px;
-        display: block;
-        margin: 20px auto 50px;
-
-        // Force background size to remain constant and not scale down
-        background-size: 596px !important;
-
-        // The breakpoint here was entirely guessed and tested by eye-balling the results
-        // ie. feel free to choose something more sensible
-        @include min-breakpoint(645px) {
-            margin-top: 5px;
-        }
+    .post {
+        @include ornament;
     }
 
     .post-title {

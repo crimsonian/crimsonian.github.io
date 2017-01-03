@@ -5,20 +5,21 @@ layout: default
 <header class="page-header">
   <h1 class="text-center">{{page.name}}</h1>
 </header>
-{% assign total_posts = site.categories[page.slug] | size %}
 
-<ul class="category">
-{% for post in site.categories[page.slug] %}
-  <li class="category-post">
-    <strong><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A, %B %-d, %Y" }}</time></strong>
-    <a href="{{ post.url | prepend: site.baseurl }}">
-      <span>{{ post.title }}</span>
-    </a>
-  </li>
+{% assign docs = site.categories[page.slug] %}
+{% assign total_docs = docs | size %}
+
+<section class="categories">
+{% for doc in docs %}
+  <article class="category-post">
+    <time datetime="{{ doc.date | date_to_xmlschema }}">{{ doc.date | date: "%A, %B %-d, %Y" }}</time>
+    <h2>
+      <a href="{{ doc.url | prepend: site.baseurl }}">
+        <span>{{ doc.title }}</span>
+      </a>
+    </h2>
+    <p>{{ doc.content | strip_html | truncate: 350, "..." }}</p>
+  </article>
+  <div class="ornament"></div>
 {% endfor %}
-</ul>
-
-{% if paginator.total_pages > 1 %}
-    {% include pagination.html maxPages=5 %}
-{% endif %}
-
+</section>

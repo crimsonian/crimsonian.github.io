@@ -21,7 +21,7 @@ sass:
   style: :compressed
 
 collections:
-  categories:
+  my_categories:
     output: true
     permalink: /category/:name/
 
@@ -41,6 +41,6 @@ defaults:
   -
     scope:
       path: ""
-      type: categories
+      type: my_categories
     values:
       layout: category

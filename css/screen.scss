@@ -55,6 +55,7 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
   text-align: center;
 }
 
+.ornament,
 .page-header {
   @include ornament;
 }
@@ -66,15 +67,27 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
 }
 
 
-ul.category {
-  li {
+.categories {
+  article {
     margin-bottom: 1em;
+    padding: 1em;
+    line-height: 150%;
     time {
       display: block;
+      font-size: 65%;
+      letter-spacing: 0.5em;
+      text-transform: uppercase;
+      color: $legal-color;
+      text-align: center;
+      font-family: $banner-font-family;
+      padding-bottom: 1em;
+    }
+    h2 {
+      font-weight: 600;
+      font-size: 140%;
+      text-align: center;
     }
     a {
-      font-weight: 400;
-      font-size: 100%;
       &:hover {
         text-decoration: underline;
       }

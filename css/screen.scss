@@ -51,9 +51,47 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
         "modules"
 ;
 
+.text-center {
+  text-align: center;
+}
+
+.ornament,
+.page-header {
+  @include ornament;
+}
+
 .post-body {
   a {
     color: #3F7AC2;
+  }
+}
+
+
+.categories {
+  article {
+    margin-bottom: 1em;
+    padding: 1em;
+    line-height: 150%;
+    time {
+      display: block;
+      font-size: 65%;
+      letter-spacing: 0.5em;
+      text-transform: uppercase;
+      color: $legal-color;
+      text-align: center;
+      font-family: $banner-font-family;
+      padding-bottom: 1em;
+    }
+    h2 {
+      font-weight: 600;
+      font-size: 140%;
+      text-align: center;
+    }
+    a {
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 }
 

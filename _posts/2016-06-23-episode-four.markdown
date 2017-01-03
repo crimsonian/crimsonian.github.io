@@ -2,6 +2,7 @@
 layout: post
 title:  "the democrats fight for common sense gun laws and the humanism of the blame game"
 date:   2016-06-22 08:00:00 -0400
+category: episodes
 ---
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270402133&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

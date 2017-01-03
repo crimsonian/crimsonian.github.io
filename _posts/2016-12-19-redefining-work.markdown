@@ -4,6 +4,7 @@ title:  "what is it– you say, you do?"
 date:   2016-12-19 08:00:00 -0400
 description: Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna.
 og_image: http://crimsonian.com/img/31755332715_beef091d3f_o.png
+category: general
 ---
 
 <img src="/img/31755332715_beef091d3f_o.png" class="ri" />

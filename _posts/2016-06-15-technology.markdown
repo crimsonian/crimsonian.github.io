@@ -2,6 +2,7 @@
 layout: post
 title:  "podcast technology"
 date:   2016-06-15 08:00:00 -0400
+category: general
 ---
 For those of you who have listened to the crimsonian podcast since episode one, thank you. And not just thank you for taking time out of your day to listen, but for tolerating the lack of professional sound quality. When we started this endevor, it was just to have a creative outlet and to partake in the awesome world of podcasting. We really didn't think anyone would listen, so we decided to wing it. I had absolutely no idea what technology was needed or how to make it possible, but as with most things in life, you just got to throw yourself in and figure it out.
 
@@ -13,7 +14,7 @@ We then learned that Mac's wont recgonize two microphones...at least not when us
 
 In this time, we had an unique opportunity to interview a good friend who was coming to town for a wedding. So with our shitty set up, we proceeded to interview them, which was a big mistake. The interview is so impactful, but the quality really takes away from the content. I could hit myself when I think about this...ugh technology.
 
-Out of frustration, and after returning hundreds of dollars worth of equipment, I decided to go to Radio Shack (yes, they still exist somehow) and I bought the best USB microphone they carried, the Blue Yeti. I came home, hooked it and my borrowed USB mic up to the USB power hub and sure enough, it still didn't freaking work. I was done, I hadn't won any battles and the war was looking over. I was defeated, and quite honestly, over it. 
+Out of frustration, and after returning hundreds of dollars worth of equipment, I decided to go to Radio Shack (yes, they still exist somehow) and I bought the best USB microphone they carried, the Blue Yeti. I came home, hooked it and my borrowed USB mic up to the USB power hub and sure enough, it still didn't freaking work. I was done, I hadn't won any battles and the war was looking over. I was defeated, and quite honestly, over it.
 
 Lucky for me, Taylor still had some fight in him. While I was out with a friend, he took it upon himself to solve the unsolvable. And with another small investment in Garage Band, he did it! Thank fucking God, cause I was seriously over the whole situation.
 

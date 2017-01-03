@@ -2,8 +2,7 @@
 layout: post
 title:  "bunbury adventures"
 date:   2016-06-07 08:00:00 -0400
-categories:
-  - adventures
+category: general
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/26912511783/in/datetaken/" title="FullSizeRender"><img src="https://c8.staticflickr.com/8/7316/26912511783_90a119b87e_s.jpg" width="75" height="75" alt="FullSizeRender"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

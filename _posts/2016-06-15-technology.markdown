@@ -5,6 +5,7 @@ date:   2016-06-15 08:00:00 -0400
 category: general
 redirect_from:
   - /2016/06/15/technology
+  - /2016/06/15/technology/
 ---
 
 For those of you who have listened to the crimsonian podcast since episode one, thank you. And not just thank you for taking time out of your day to listen, but for tolerating the lack of professional sound quality. When we started this endevor, it was just to have a creative outlet and to partake in the awesome world of podcasting. We really didn't think anyone would listen, so we decided to wing it. I had absolutely no idea what technology was needed or how to make it possible, but as with most things in life, you just got to throw yourself in and figure it out.

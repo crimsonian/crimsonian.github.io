@@ -5,6 +5,7 @@ date:   2016-06-03 08:00:00 -0400
 category: general
 redirect_from:
   - /2016/06/03/entitlement
+  - /2016/06/03/entitlement/
 ---
 
 ![](https://theprogressivemom.files.wordpress.com/2016/04/bernie.jpg?w=580)

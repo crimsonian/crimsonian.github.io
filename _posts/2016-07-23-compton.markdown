@@ -5,6 +5,7 @@ date:   2016-07-23 08:00:00 -0400
 category: general
 redirect_from:
   - /2016/07/23/compton
+  - /2016/07/23/compton/
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/en/7/7a/Straight_Outta_Compton_poster.jpg)

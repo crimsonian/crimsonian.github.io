@@ -5,6 +5,7 @@ date:   2016-06-27 08:00:00 -0400
 category: episodes
 redirect_from:
   - /2016/06/27/episode_five
+  - /2016/06/27/episode_five/
 ---
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271167621&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

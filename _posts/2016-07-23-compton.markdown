@@ -3,7 +3,10 @@ layout: post
 title:  "straight outta compton reminds me of how far we have regressed"
 date:   2016-07-23 08:00:00 -0400
 category: general
+redirect_from:
+  - /2016/07/23/compton
 ---
+
 ![](https://upload.wikimedia.org/wikipedia/en/7/7a/Straight_Outta_Compton_poster.jpg)
 
 I finally sat down and watched *Straight outta Compton*, a biographical drama about the formation of NWA in the late 1980’s, early 1990’s. I thought it was a great movie; the acting, directing, storytelling and music was fantastic. I was super-impressed with the film in its entirety and would definitely recommend anyone watch it regardless of their interest in NWA.

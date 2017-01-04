@@ -3,7 +3,10 @@ layout: post
 title:  "millenial entitlement"
 date:   2016-06-03 08:00:00 -0400
 category: general
+redirect_from:
+  - /2016/06/03/entitlement
 ---
+
 ![](https://theprogressivemom.files.wordpress.com/2016/04/bernie.jpg?w=580)
 
 A former and fellow University of Kentucky alum recently posted an article on Fortune.com about why he cannot buy into the Bernie Sanders “revolution,” and it quickly went viral. It was all over my Facebook feed and after reading it, I was kind of irate. Not because I am a hardcore Bernie Sanders supporter (I love the guy but I am #teamhillary) nor was it because everyone posting it was from the most entitled backgrounds possible, but because he offers up an argument that has been proven wrong time and time again, since the 1980’s.

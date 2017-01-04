@@ -3,7 +3,10 @@ layout: post
 title:  "i can't sit idle while watching innocent black men die"
 date:   2016-09-26 08:00:00 -0400
 category: general
+redirect_from:
+  - /2016/09/26/blacklivesmattermore
 ---
+
 This evening, after a great weekend of family camping, I decided to catch up on the news. I watched an innocent, non threatening, black man get executed by police officers. The first video was of his wife filming the encounter. Not only is it disturbing that this black woman felt she needed to film the police encounter as evidence, but that she was genuinely scared that her husband, completely innocent and unarmed would be murdered. He was.
 
 The second video was from the dash-cam, where you clearly see Keith Scott doing exactly as is asked; exiting the car and backing up. (Keep in mind his wife is telling him not to get out of the car- presumably scared he will be murdered by the police). [You can see all videos here](http://www.zerohedge.com/news/2016-09-24/charlotte-police-plan-release-keith-scott-body-cam-footage-press-conference-live-fee), for you to make your own assessment of the evidence. But all of the footage points to the execution of an innocent black man.

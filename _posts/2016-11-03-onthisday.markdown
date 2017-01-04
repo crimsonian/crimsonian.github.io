@@ -3,7 +3,10 @@ layout: post
 title:  "on this day, 5 years ago..."
 date:   2016-11-03 08:00:00 -0400
 category: general
+redirect_from:
+  - /2016/11/03/onthisday
 ---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/27001593540/in/datetaken/" title="FullSizeRender"><img src="https://c5.staticflickr.com/8/7175/27001593540_3cd83d3fdf_s.jpg" width="75" height="75" alt="FullSizeRender"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On this day, 5 years ago, an acquaintance passed away. I wish I could say she was someone I was close to, but the reality is, we weren’t really good friends. Her boyfriend, and eventual husband, was childhood friends with my boyfriend, and eventual husband. We saw each other in passing and at social engagements on a fairly regular basis, but the reality was, we had nothing in common. She was much more domesticated than I was and she had a level of confidence I couldn’t comprehend or process. Not surprisingly, we never really became friends, we just hung out when our husbands hung out and even then, it was at a superficial level.

@@ -3,6 +3,8 @@ layout: post
 title:  "cincinnati, it's more than just ok"
 date:   2016-07-07 08:00:00 -0400
 category: general
+redirect_from:
+  - /2016/07/07/fourthofuly
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/27870284970/in/datetaken/" title="Untitled"><img src="https://c3.staticflickr.com/8/7364/27870284970_8cf7432221_s.jpg" width="75" height="75" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

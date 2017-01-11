@@ -2,6 +2,7 @@
 layout: post
 title:  "the trump transition and why we should be worried about whats to come in 2017"
 date:   2016-01-10 04:00:00
+category: episodes
 ---
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301572400&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

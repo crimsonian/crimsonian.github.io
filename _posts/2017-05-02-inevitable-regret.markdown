@@ -4,7 +4,7 @@ title:  "inevitable regret"
 date:   2017-05-02 08:00:00 -0400
 category: general
 ---
-!crimsonian.github.io/img/no-ragrets.jpg
+![](crimsonian.github.io/img/no-ragrets.jpg)
 Its official, my “childhood home” (the home we lived in when I was in high school) hit the real estate market. I am not sentimental when it comes to my high school days, but I know how hard this must be on my mom. She lived there for 20 years and is now faced with downsizing her life as a result of her age and the MS she has been dealing with for 10 years. When she called to tell me the news, I could hear the excitement, relief and fear in her voice. 
 
 The conversation bounced from the details of the meeting with her agent, to her reflections of the past 20 plus years of her life. My mom worked hard, she was a good mom, but she reflects on her 60 years on Earth with a list of regrets longer than her list of accomplishments. She regrets working too much, not working hard enough, not taking better jobs, taking too aggressive of jobs, and basically every man that has ever been in her life. As a 60 year old, she is also surrounded by others facing the same reflections of regret. Regret is just a part of our life as we get older, and it eats some of us alive.

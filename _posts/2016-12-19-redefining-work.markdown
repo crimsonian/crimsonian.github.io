@@ -8,6 +8,7 @@ category: general
 redirect_from:
   - /2016/12/19/redefining-work
   - /2016/12/19/redefining-work/
+published: false
 ---
 
 <img src="/img/31755332715_beef091d3f_o.png" class="ri" />

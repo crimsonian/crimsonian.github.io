@@ -6,6 +6,7 @@ category: general
 redirect_from:
   - /2016/08/08/timeoff
   - /2016/08/08/timeoff/
+published: false
 ---
 
 We told you that we would be taking a week off, but one week became two. Not because we enjoyed having some time off, but because Laurie lost a loved one and is spending time with her family, while juggling all of her other #adulting realities. Please keep her and her family in your thoughts.

@@ -6,6 +6,7 @@ category: general
 redirect_from:
   - /2016/07/07/fourthofuly
   - /2016/07/07/fourthofuly/
+published: false
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/crimsonrhoads/27870284970/in/datetaken/" title="Untitled"><img src="https://c3.staticflickr.com/8/7364/27870284970_8cf7432221_s.jpg" width="75" height="75" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

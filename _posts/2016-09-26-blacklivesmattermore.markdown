@@ -6,6 +6,7 @@ category: general
 redirect_from:
   - /2016/09/26/blacklivesmattermore
   - /2016/09/26/blacklivesmattermore/
+published: false
 ---
 
 This evening, after a great weekend of family camping, I decided to catch up on the news. I watched an innocent, non threatening, black man get executed by police officers. The first video was of his wife filming the encounter. Not only is it disturbing that this black woman felt she needed to film the police encounter as evidence, but that she was genuinely scared that her husband, completely innocent and unarmed would be murdered. He was.
